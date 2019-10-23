@@ -62,6 +62,6 @@ function click() {
 const timer = setInterval(() => {
     console.warn('pause');
     click();
-}, 30000);
+}, 60000);
 
 //
